@@ -16,9 +16,3 @@ A lightweight and efficient Bash script designed to analyze server logs, identif
 1. Clone the repository:
    `bash
    git clone https://github.com/Kianiu/log-hunter.git
-
-1- Navigate to the folder
-cd log-hunter
-
-2. Run the script
-bash analyze.sh
