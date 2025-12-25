@@ -1,0 +1,3 @@
+echo Starting Analysis...
+wc -l server.log
+cut -d " " -f 2 server.log | sort | uniq -c
