@@ -13,22 +13,21 @@ A lightweight and efficient Bash script designed to analyze server logs, identif
 - Commands: grep, cut, sort, uniq, wc, pipes (|)
 
 ## 💻 How to Run
+
 1. Clone the repository:
-   `bash
+```bash
    git clone https://github.com/Kianiu/log-hunter.git
 ```
 
-
-```bash
 2. Navigate to the folder:
-``` bash
+```
 cd log-hunter
-```bash
+```
 
 3. Run the script:
-``` bash
+```
 bash analyze.sh
-~~~
+```
 
 ---
 Created by Kian
